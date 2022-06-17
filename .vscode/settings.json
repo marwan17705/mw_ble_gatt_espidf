@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "mw_ble_gatt.h": "c",
+        "gpio.h": "c",
+        "string.h": "c",
+        "esp_spi_flash.h": "c",
+        "nvs_flash.h": "c",
+        "esp_err.h": "c"
+    }
+}

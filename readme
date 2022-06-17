@@ -1,0 +1,7 @@
+เพิ่มlib esp_bt.h
+CONFIG_BT_ENABLED=y
+CONFIG_BT_CLASSIC_ENABLED=y
+CONFIG_BT_SPP_ENABLED=y
+
+
+coexist
